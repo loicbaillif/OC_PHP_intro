@@ -24,7 +24,8 @@
             <?php
             /* Encore du PHP
             Toujours du PHP */
-            echo "Celle-ci a été écrite entièrement en PHP.";
+            echo "Celle-ci a été écrite entièrement en PHP.<br />\n";
+            echo 'Ici aussi. Péachepé.'
             ?>
         </p>
 
